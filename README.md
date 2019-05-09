@@ -6,6 +6,32 @@ link : https://travel-with-iamge.herokuapp.com/
 user: user_1@gmail.com,user_2@gmail.com
 pwd : test@123
 
+# Technology
+
+## FrontEnd
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+
+## BackEnd
+- Flask
+
+## Database
+- Firebase
+
+## Machine Learning Implementaion
+- Opencv
+- Pandas
+- Pillow
+- Sklearn
+
+
+## External Library
+- [Animate.css](https://daneden.github.io/animate.css/)
+- [Twillo](https://www.twilio.com/)
+
+
 # Screenshots
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/31537362/57466078-8ba83780-729d-11e9-8958-ec09e517c074.png)
